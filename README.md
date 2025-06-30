@@ -14,7 +14,7 @@ Durante o curso, desenvolvi habilidades fundamentais para trabalhar com listas e
 
 ---
 
-## 🟩 [Exercícios da Aula 3 – Manipulando listas e estruturas básicas](https://github.com/Nuillexe/alura-java-exercises-lists-and-collections/tree/master/Class%203)
+## 🟩 [Exercícios da Aula 3 – Manipulando listas e estruturas básicas](https://github.com/Nuillexe/alura-java-exercises-lists-and-collections/tree/master/Class%203/src)
 
 1. Crie um `ArrayList` de strings e utilize um loop `foreach` para imprimir os elementos.  
 2. Crie as classes `Animal` e `Cachorro`, realize o casting de `Cachorro` para `Animal`.  
@@ -25,7 +25,7 @@ Durante o curso, desenvolvi habilidades fundamentais para trabalhar com listas e
 
 ---
 
-## 🟦 [Exercícios da Aula 4 – Ordenando objetos com listas](https://github.com/Nuillexe/alura-java-exercises-lists-and-collections/tree/master/Class%204)
+## 🟦 [Exercícios da Aula 4 – Ordenando objetos com listas](https://github.com/Nuillexe/alura-java-exercises-lists-and-collections/tree/master/Class%204/src)
 
 1. Crie uma lista de inteiros, ordene com `Collections.sort` e imprima.  
 2. Crie a classe `Titulo`, implemente `Comparable<Titulo>` e defina o critério de ordenação.  
